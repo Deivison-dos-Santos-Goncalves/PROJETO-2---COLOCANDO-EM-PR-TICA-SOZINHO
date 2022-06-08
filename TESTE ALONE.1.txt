@@ -1,0 +1,37 @@
+<html>
+
+  <head>
+   <title>Cadastro</title>
+  </head>
+
+<body>
+  
+  <table>
+  <tr>
+ 	Nome
+  <tr>
+ 	E-mail
+  <tr>
+	<strong>Sexo</strong>
+  <tr>
+    	RG
+  <tr>
+	CPF
+  <tr>
+	Login
+  <tr>
+     	Senha
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+</html>
